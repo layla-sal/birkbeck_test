@@ -1,0 +1,14 @@
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  font-size: 4rem;
+  color: rgb(154, 203, 70);
+  text-align: center;
+  transition: 1s;
+}
+h1:hover {
+  background-color: rgb(191, 87, 150);
+  cursor: pointer;
+}
